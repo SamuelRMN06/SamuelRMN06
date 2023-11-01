@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Tenho 17 anos e moro em Fortaleza - CE<br>🔭 Estou estudando C#<br>
+
 
 
 ## 🌐 Socials:
